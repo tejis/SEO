@@ -1,2 +1,42 @@
 # SEO
-Search Engine Optimization
+
+## Tools
+- https://www.google.com/business/
+- https://www.google.com/webmasters/
+- https://moz.com/tools
+- https://www.google.com/analytics/
+- https://www.quicksprout.com/
+- https://hallanalysis.com/json-ld-generator/
+- https://www.similarweb.com/
+- https://www.xml-sitemaps.com/
+
+## Guides
+- https://moz.com/learn/seo
+- https://moz.com/beginners-guide-to-seo
+- https://moz.com/beginners-guide-to-link-building
+- https://moz.com/learn/local
+- https://moz.com/beginners-guide-to-content-marketing
+- https://moz.com/blog/how-to-rank
+- https://moz.com/blog/seo-cheat-sheet
+- https://blog.kissmetrics.com/seo-guide/
+- http://searchengineland.com/guide/seo
+- https://www.searchenginejournal.com/seo-guide/
+- https://www.quicksprout.com/the-advanced-guide-to-seo/
+- http://www.wpbeginner.com/wordpress-seo/
+- https://www.reddit.com/r/SEO/wiki/index
+- https://www.reddit.com/r/Entrepreneur/comments/50a64o/noobs_guide_to_search_engine_optimization/
+
+## Scanners
+- https://developers.google.com/speed/pagespeed/insights/
+- https://search.google.com/search-console/mobile-friendly
+- https://search.google.com/structured-data/testing-tool
+- https://moz.com/local/search
+- https://moz.com/researchtools/ose/
+- https://adwords.google.com/home/tools/keyword-planner/
+- https://serps.com/tools/rank-checker/
+- http://seositecheckup.com/
+- https://suite.searchmetrics.com/en/research
+- http://www.powermapper.com/products/sortsite/checks/seo-checks/
+- http://www.seowebpageanalyzer.com/
+- https://www.pluginseo.com/
+- http://www.seo-detective.com/
