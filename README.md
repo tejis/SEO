@@ -25,6 +25,9 @@
 - http://www.wpbeginner.com/wordpress-seo/
 - https://www.reddit.com/r/SEO/wiki/index
 - https://www.reddit.com/r/Entrepreneur/comments/50a64o/noobs_guide_to_search_engine_optimization/
+- https://medium.com/marketing-and-entrepreneurship/21-actionable-seo-techniques-you-can-use-right-now-28916f404542
+- https://medium.com/@seanogle/how-to-become-an-seo-freelancer-in-48-hours-d22acc18ca0f
+- https://medium.com/startup-grind/seo-is-not-hard-a-step-by-step-seo-tutorial-for-beginners-that-will-get-you-ranked-every-single-1b903b3ab6bb
 
 ## Scanners
 - https://developers.google.com/speed/pagespeed/insights/
